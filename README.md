@@ -112,7 +112,7 @@ The final dashboard provides segmentation, churn patterns, revenue risk, and act
 | **PostgreSQL** | Data storage, cleaning, validation, aggregation |
 | **Python (Pandas, Seaborn, Matplotlib)** | EDA, feature engineering, churn risk scoring |
 | **Power BI** | Dashboard visualization and storytelling |
-| **Excel** | Initial data exploration and sanity checks |
+
 
 ---
 
