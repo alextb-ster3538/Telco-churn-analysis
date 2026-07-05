@@ -119,7 +119,7 @@ The final dashboard provides segmentation, churn patterns, revenue risk, and act
 ## 🧭 Author
 
 **Aleksandra Burmester**  
-Junior Data Analyst · Compliance & Internal Controls · Dallas–Fort Worth, TX  
+Junior Data Analyst   
 🔗 LinkedIn: *https://www.linkedin.com/in/aleksandra-burmester-1823b72a/*  
 💻 GitHub: *https://github.com/alextb-ster3538*
 
@@ -136,7 +136,7 @@ This project uses the Telco Customer Churn dataset originally published on Kaggl
 Dataset: Telco Customer Churn  
 Author: Blastchar
 
-*Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn*
+Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn*
 
 
 
