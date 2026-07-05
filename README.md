@@ -77,7 +77,8 @@ The final dashboard provides segmentation, churn patterns, revenue risk, and act
 
 ### 📑 Contracts
 - **Month‑to‑month churn: 42.71%** (highest).  
-- One‑year: **11.28%** · Two‑year: **2.85%**.  
+- One‑year: **11.28%**
+- Two‑year: **2.85%**.  
 - Month‑to‑month revenue at risk: **$120.85K**.
 
 ### 🌐 Internet Service
